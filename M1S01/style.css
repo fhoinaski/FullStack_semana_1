@@ -1,6 +1,7 @@
 body{
     text-align: center;
     background-color: #f8d8af;
+
 }
 .title{
     font-size: 20px;
@@ -9,4 +10,27 @@ body{
 }
 .description{
     font-size: 14px;
+}
+.botao{
+    display: flex;
+    background-color: #ffffff;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border:solid 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+    margin: auto;
+
+}
+.botao img{
+    width: 30px;
+    margin-bottom: -3px;
+    margin-left: 10px;
+    }
+a{
+text-decoration: none;
 }
