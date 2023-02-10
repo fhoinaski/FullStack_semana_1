@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: #f8d8af;
+}
+.title{
+    font-size: 20px;
+    font-family: Verdana;
+    color: #b66b11;
+}
+.description{
+    font-size: 14px;
+}
