@@ -54,14 +54,22 @@ body {
 a {
     text-decoration: none;
 }
-.boxImagens{
+
+.boxImagens {
     display: flex;
     align-items: center;
     justify-content: center;
 
 }
-div img{
+
+div img {
     padding: 10px;
     width: 200px;
-    height:auto;
+    height: auto;
+}
+
+iframe {
+    border-radius: 10px;
+    box-shadow: 0 2px 10px 2px #000000;
+    margin: 0 0 20px 0;
 }
